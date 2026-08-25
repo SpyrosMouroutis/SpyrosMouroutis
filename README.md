@@ -1,6 +1,6 @@
 # Hi, I'm Spyros 👋
 
-Electrical & Computer Engineering student at the Technical University of Crete.
+MEng in Electrical & Computer Engineering at the Technical University of Crete.
 Currently working as a Data & AI Intern at EY Greece.
 
 ## Interests
