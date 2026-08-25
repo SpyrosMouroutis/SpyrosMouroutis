@@ -11,5 +11,5 @@ Currently working as a Data & AI Intern at EY Greece.
 - Generative AI
 
 ## Connect
-- LinkedIn: linkedin.com/in/smouroutis
+- LinkedIn: [linkedin.com/in/smouroutis](https://linkedin.com/in/smouroutis)
 - Email: spmouroutis@gmail.com
