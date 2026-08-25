@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Spyros 👋
 
-<!--
-**SpyrosMouroutis/SpyrosMouroutis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electrical & Computer Engineering student at the Technical University of Crete.
+Currently working as a Data & AI Intern at EY Greece.
 
-Here are some ideas to get you started:
+## Interests
+- Machine Learning
+- Data Engineering
+- Reinforcement Learning
+- Cloud Engineering (Azure)
+- Generative AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect
+- LinkedIn: linkedin.com/in/smouroutis
+- Email: spmouroutis@gmail.com
