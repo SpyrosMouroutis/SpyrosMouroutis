@@ -7,7 +7,7 @@ working as a Data & AI Intern at EY Greece.
 - Machine Learning
 - Data Engineering
 - Reinforcement Learning
-- Cloud Engineering (Azure)
+- Cloud Engineering 
 - Autonomous Agents
 - Generative AI
 
