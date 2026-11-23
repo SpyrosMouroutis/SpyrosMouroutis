@@ -1,6 +1,6 @@
 # Hi, I'm Spyros 👋
 
-Data & AI Advisory Intern @ EY | MEng Candidate in Electrical & Computer Engineering @ Technical University of Crete
+MEng ECE Candidate @ Technical University of Crete | Ex-Data & AI Advisory Intern @ EY
 
 ## Interests
 - Machine Learning
@@ -9,7 +9,8 @@ Data & AI Advisory Intern @ EY | MEng Candidate in Electrical & Computer Enginee
 - Cloud Engineering 
 - Autonomous Agents
 - Generative AI
-
+- 
 ## Connect
-- LinkedIn: [linkedin.com/in/smouroutis](https://linkedin.com/in/smouroutis)
-- Email: spmouroutis@gmail.com
+- Portfolio: [spyrosmouroutis.github.io](https://spyrosmouroutis.github.io/)
+- LinkedIn: [linkedin.com/in/smouroutis](https://www.linkedin.com/in/smouroutis/)
+- Email: [spmouroutis@gmail.com](mailto:spmouroutis@gmail.com)
