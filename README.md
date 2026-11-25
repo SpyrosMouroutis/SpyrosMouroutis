@@ -5,9 +5,9 @@ MEng Electrical & Computer Engineering Student @ Technical University of Crete Â
 # Areas of Interest
 - Machine Learning & Deep Learning
 - Reinforcement Learning & Autonomous Agents
-- Computer Vision
 - Generative AI & RAG Systems
 - Data Engineering 
+- Computer Vision
 - Cloud & Backend Engineering
   
 ## Connect
